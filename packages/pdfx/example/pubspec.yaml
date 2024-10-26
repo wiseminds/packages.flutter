@@ -4,7 +4,7 @@ version: 1.0.0
 publish_to: 'none'
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=2.12.0 <3.6.0'
 
 dependencies:
   flutter:
@@ -12,8 +12,8 @@ dependencies:
   pdfx:
     path: ../
   internet_file: ^1.2.0
-  universal_platform: ^1.0.0+1
-  performance: ^0.1.0+1
+  universal_platform: ^1.1.0
+  performance: ^0.1.1
 
 dev_dependencies:
   flutter_test:
